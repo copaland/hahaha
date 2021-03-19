@@ -2,7 +2,7 @@
 
 MIT App Inventor 강좌 Study 웹페이지 
 
-[HAHAHA 웹페이지 링크](https://copaland.github.io/hahaha, "MIT App Inventor 강좌")
+[HAHAHA 웹페이지 링크](https://copaland.github.io/hahaha/ "MIT App Inventor 강좌")
 
 #### git command test
 
